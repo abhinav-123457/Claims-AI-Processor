@@ -77,13 +77,9 @@ Then open your browser at **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)** �
 
 ## 📸 Example Output
 ![](output1.png)
+![](output.png)
 
-**Input:** Damaged car photo
-**Output:**
 
-* Detected: *Dent (Confidence: 94%)*
-* Estimated Repair Cost: ₹8,000
-* PDF report auto-generated with bounding boxes
 
 ---
 
