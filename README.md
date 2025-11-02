@@ -61,7 +61,7 @@ car-damage-ai/
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/car-damage-ai.git
+git clone https://github.com/abhinav-123457/car-damage-ai.git
 cd car-damage-ai
 
 # 2️⃣ Install dependencies
