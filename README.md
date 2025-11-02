@@ -36,7 +36,7 @@ It detects, validates, and estimates repair costs for damaged vehicles — ensur
 | **AI Detection**     | Hugging Face Transformers (`umm-maybe/AI-image-detector`)                          |
 | **Backend**          | Flask                                                                              |
 | **Frontend**         | HTML, CSS, JS                                                                      |
-| **Dataset**          | [CARDD Dataset](https://universe.roboflow.com/capstone-car-damage-detection/cardd) |
+| **Dataset**          | [CARDD Dataset](https://cardd-ustc.github.io/)                                     |
 
 ---
 
