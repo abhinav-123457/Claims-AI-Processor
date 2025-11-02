@@ -1,0 +1,16 @@
+# cardd.yaml
+path: ./cardd_dataset  # root folder
+train: images/train
+val: images/val
+test: images/test  # optional
+
+# Classes (MUST match your labels)
+names:
+  0: Dent
+  1: Scratch
+  2: Crack
+  3: Glass Shatter
+  4: Lamp Broken
+  5: Tire Flat
+
+nc: 6
